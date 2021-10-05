@@ -1,5 +1,21 @@
-# Flappy Ball
+## **Flappy Ball**
 
-For the [Arduboy](https://www.arduboy.com/) Arduino based game system.
+This project has been developed by [Scott Allen][1] and forked directly from [FlappyBall][2].
 
-Try to overcome the force of gravity and navigate a levitating ball through small openings.
+You can read the original README file from [here][3].
+
+You can download the .hex file of this project **compiled for watchX** from [here][4].
+
+There is no original README file released by the developer.
+
+## **License**
+
+This project has been released under the MIT License by it's developer.
+
+The full document can be found in the [LICENSE][5] file.
+
+[1]: https://github.com/MLXXXp
+[2]: https://github.com/MLXXXp/FlappyBall
+[3]: Orijinal-Readme
+[4]: watchX-Hex
+[5]: Lisans
