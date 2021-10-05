@@ -16,6 +16,5 @@ The full document can be found in the [LICENSE][5] file.
 
 [1]: https://github.com/MLXXXp
 [2]: https://github.com/MLXXXp/FlappyBall
-[3]: Orijinal-Readme
-[4]: watchX-Hex
-[5]: Lisans
+[3]: https://github.com/argeX-official/Game-Flappy_Ball/blob/master/OLD_README.md
+[4]: https://github.com/argeX-official/Game-Flappy_Ball/releases
