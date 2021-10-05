@@ -6,13 +6,9 @@ You can read the original README file from [here][3].
 
 You can download the .hex file of this project **compiled for watchX** from [here][4].
 
-There is no original README file released by the developer.
-
 ## **License**
 
-This project has been released under the MIT License by it's developer.
-
-The full document can be found in the [LICENSE][5] file.
+This project has not been licensed by it's developer yet.
 
 [1]: https://github.com/MLXXXp
 [2]: https://github.com/MLXXXp/FlappyBall
