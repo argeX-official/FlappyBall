@@ -8,9 +8,12 @@ You can download the .hex file of this project **compiled for watchX** from [her
 
 ## **License**
 
-This project has not been licensed by it's developer yet.
+This project has been released under the BSD License by it's developer.
+
+The full document can be found in the [LICENSE][5] file.
 
 [1]: https://github.com/MLXXXp
 [2]: https://github.com/MLXXXp/FlappyBall
 [3]: https://github.com/argeX-official/Game-Flappy_Ball/blob/master/OLD_README.md
 [4]: https://github.com/argeX-official/Game-Flappy_Ball/releases
+[5]: https://github.com/argeX-official/Game-Flappy_Ball/blob/master/LICENSE.txt
